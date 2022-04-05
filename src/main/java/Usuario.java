@@ -15,4 +15,5 @@ public class Usuario {
     public String identificacion;
     public String salario;
     public Date fecha;
+    int a=0;
 }
